@@ -439,6 +439,61 @@
       "kept": 192,
       "emailed": true,
       "note": "All sources answered."
+    },
+    {
+      "run_at": "2026-10-30T06:09:16+08:00",
+      "checked": [
+        {
+          "source": "MyCareersFuture",
+          "query": "artificial intelligence",
+          "results": 40
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "machine learning",
+          "results": 40
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "generative AI",
+          "results": 40
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "innovation",
+          "results": 40
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:databricks",
+          "results": 32
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:stripe",
+          "results": 48
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:anthropic",
+          "results": 11
+        },
+        {
+          "source": "Company site",
+          "query": "lever:palantir",
+          "results": 4
+        },
+        {
+          "source": "LinkedIn (job alert emails)",
+          "query": "alerts",
+          "results": 13
+        }
+      ],
+      "found": 40,
+      "new": 37,
+      "kept": 229,
+      "emailed": true,
+      "note": "All sources answered."
     }
   ]
 }
